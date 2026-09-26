@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.2.0 - 2026-09-25
+
+- Replaced the incorrect first draft with the original Magda’s Law staging website: Understand, The Proposal, Our Origin, and Take Action sections.
+- Added the working photo of Magda with the vehicle plate obscured, cropped from the original high-resolution photograph to reduce visible slush while retaining its pixel dimensions.
+- Replaced the pet-status question with the approved “Retaining an established service-animal status under federal law” explanation.
+- Removed em dashes from the page title and opening text.
+- Preserved staging notice, noindex metadata, working-draft language, and pending petition and document links.
+- Recorded the site version in HTML metadata.
+
 ## v0.1.0 - 2026-09-25
 
 - Added the first review draft of the Magda's Law website as a single static page.
